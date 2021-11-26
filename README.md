@@ -4,4 +4,4 @@ Designing and implementing an HSE application (Health, Safety, Environment)  whi
 - Have clear visibility regarding stock status
 - Prepare a need sheet
 
-Outils : Java, Netbeans, MySQL
+Tools : Java, Netbeans, MySQL
